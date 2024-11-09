@@ -21,11 +21,13 @@ Here's an enhanced and impressive README file for your project:
 ## Installation
 1. *Clone the repository*:
    bash
-   git clone https://github.com/yourusername/janani-sentiment-analysis.git
-   cd janani-sentiment-analysis
+
+    git clone https://github.com/yourusername/janani-sentiment-analysis.git
+
+    cd janani-sentiment-analysis
    
 
-2. *Install dependencies*:
+3. *Install dependencies*:
    bash
    pip install -r requirements.txt
    
