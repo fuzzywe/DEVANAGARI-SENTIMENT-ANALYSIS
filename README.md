@@ -75,11 +75,7 @@ pip install -r requirements.txt
 - *Advanced Models*: Integrating BERT-based or transformer models for improved accuracy in sentiment detection.
 - *Real-Time Analysis*: Developing a live sentiment tracking dashboard for social media data.
 
-## Contribution
-Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests. Join us in making Janani a leading sentiment analysis tool for Devanagari scripts.
 
-## License
-This project is licensed under the MIT License. See LICENSE for details.
 
 ---
 
