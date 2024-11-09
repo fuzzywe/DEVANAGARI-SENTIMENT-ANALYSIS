@@ -60,8 +60,10 @@ Explore example Jupyter notebooks in the notebooks/ directory to understand data
 
 ## Requirements
 The main dependencies required for Janani are listed in requirements.txt. Install all dependencies with:
-bash
+```cpp
 pip install -r requirements.txt
+
+```
 
 
 ## Technologies Used
